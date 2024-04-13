@@ -57,7 +57,7 @@
   prerequisites:
     Открыта страница https://hexlet-products-store.vercel.app/
   test-data: |
-    Добавляем товары Iphon 9  Iphon X
+    Добавляем любые товары
   steps:
     - Удостоверяемся что товар попал в корзину
     - Переходим в корзину путем нажатия кнопки "корзина"
